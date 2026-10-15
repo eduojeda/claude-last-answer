@@ -1,0 +1,7 @@
+{
+  "name": "last-answer",
+  "version": "0.1.0",
+  "description": "A side pane showing the agent's previous final answers, without reasoning or tool calls",
+  "author": { "name": "Eduardo Ojeda" },
+  "types": "./types/index.d.ts"
+}

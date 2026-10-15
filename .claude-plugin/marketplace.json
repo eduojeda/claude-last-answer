@@ -1,0 +1,13 @@
+{
+  "name": "claude-last-answer",
+  "description": "Claude Code mod: re-read the agent's previous answers in a side pane",
+  "owner": {
+    "name": "Eduardo Ojeda"
+  },
+  "plugins": [
+    {
+      "name": "last-answer",
+      "source": "./"
+    }
+  ]
+}
